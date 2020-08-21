@@ -1,7 +1,7 @@
 # SalesAnalysis
 Sales analysis of an electronic store. Addresses 5 questions.
 
-Question 1: What was the best month for sales? How much was earned that month?\n
+Question 1: What was the best month for sales? How much was earned that month?
 
 Question 2: What city sold the most product?
 
